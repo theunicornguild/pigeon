@@ -1,0 +1,1 @@
+We created one application inside this Django project which is `main` and inside of it we have the files needed for this project, as we would like to focus more on the functionality and how can you create something similar or even different but involving the Django admin page, while styling is important we won’t be covering that here

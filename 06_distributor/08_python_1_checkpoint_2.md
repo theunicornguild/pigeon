@@ -1,0 +1,1 @@
+Now we should theoretically be finished with this chapter, Test out everything and see if it works out, Although sending SMS and Email will most likely fail because we still haven’t put some `secrets` into our `settings.py` file, so let’s go and do that
